@@ -7,3 +7,8 @@ langchain_google_genai
 langgraph
 youtube-search-python
 youtube-search
+wikipedia
+lxml
+langchain-tavily
+yfinance
+ddgs
