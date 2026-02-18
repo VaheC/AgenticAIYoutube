@@ -12,3 +12,4 @@ lxml
 langchain-tavily
 yfinance
 ddgs
+structlog
