@@ -11,3 +11,6 @@ wheels/
 aia/
 .env
 venv/
+
+# Log files
+*.log
